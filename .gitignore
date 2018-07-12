@@ -1,0 +1,12 @@
+
+application/.DS_Store
+application/controllers/PHPMailer-master/.DS_Store
+application/views/.DS_Store
+application/views/dashboard/.DS_Store
+application/views/include/.DS_Store
+application/views/include/layouts/.DS_Store
+application/views/include/modals/.DS_Store
+application/views/include/scripts/.DS_Store
+application/views/sim/.DS_Store
+.DS_Store
+application/lib/Database.php
